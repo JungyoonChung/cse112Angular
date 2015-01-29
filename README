@@ -1,0 +1,4 @@
+I was having trouble connecting to my remote from Angular-Phonecat, so I
+created my own repo and copy pasted changes. The very first commit had the
+initial cloned app, and I only copied over files that changed at each step,
+so I think the commit changes are a bit off.
